@@ -2,7 +2,7 @@
 
 **`Builder at heart (Quantitative Research|Data Science|Software Engineering)`**
 
-I'm currently a Quantitative Researcher at <strong><a href="https://www.snapchat.com/">Centiva Capital</a></strong>.
+I'm currently a Quantitative Researcher at <strong><a href="https://www.centivacapital.com/">Centiva Capital</a></strong>.
 
 ## ⚡️ A Few Quick Facts
 
@@ -16,7 +16,7 @@ I'm currently a Quantitative Researcher at <strong><a href="https://www.snapchat
 
 ## 🚀 Some Tools I Use
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+[Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg)
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
