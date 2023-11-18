@@ -7,8 +7,8 @@ I'm currently a Quantitative Researcher at <strong><a href="https://www.snapchat
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working on some GitHub actions.
-- 🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.
-- 👨
+- 🧐 Learning about <strong>serverless architectures</strong>, <strong>containers</strong>, and some <strong>ML</strong>.
+- 👨 Interested in how software engineering can enhance our capabilities in quantitative research.
 - 📝
 - 💬
 - 📙
