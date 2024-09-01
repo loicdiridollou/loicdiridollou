@@ -2,7 +2,7 @@
 
 **`Builder at heart (Quantitative Research|Data Science|Software Engineering)`**
 
-I'm currently a Quantitative Researcher at <strong><a href="https://www.centivacapital.com/">Centiva Capital</a></strong>.
+I'm currently a Quantitative Researcher at <strong><a href="https://www.brevanhoward.com/">Brevan Howard</a></strong>.
 
 ## ⚡️ A Few Quick Facts
 
