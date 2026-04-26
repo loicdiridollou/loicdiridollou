@@ -1,4 +1,4 @@
-# loic diridollou
+# loïc diridollou
 
 quant researcher · open source developer · New York
 
