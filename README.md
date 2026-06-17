@@ -4,9 +4,9 @@ quant researcher · open source developer · New York
 
 ---
 
-Quantitative researcher at [Brevan Howard](https://www.brevanhoward.com/). I
-spend most of my time thinking about systematic strategies, risk infrastructure
-and the software that powers them.
+Quantitative researcher at [ExodusPoint Capital](https://www.exoduspoint.com/).
+I spend most of my time thinking about systematic strategies, risk
+infrastructure and the software that powers them.
 
 Outside of work I build open source tools — mostly things I wished existed while
 doing the day job. Contributor to
